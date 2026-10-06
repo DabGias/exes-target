@@ -5,7 +5,7 @@ As soluçoes desse repositório foram desenvolvidas em Go 1.27, mas podem ser ex
 Para executar as soluções basta executar o comando:
 
 ```bash
-cd [pasta do exercício]
+cd 'pasta do exercício'
 go run main.go
 ```
 
